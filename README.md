@@ -1,4 +1,4 @@
-# Simple spring boot application
+# Simple spring boot application with gradle
 ### Spring security
 ### JPA
 ### Validation
